@@ -1,3 +1,15 @@
+/*
+ * The Player class is provided for you in your editor. It has 2 fields: a name String and a score integer.
+
+Given an array of n Player objects, write a comparator that sorts them in order of decreasing score; if 2 or more players have the same score, sort those players alphabetically by name. To do this, you must create a Checker class that implements the Comparator interface, then write an int compare(Player a, Player b) method implementing the Comparator.compare(T o1, T o2) method.
+
+Input Format
+
+Input from stdin is handled by the locked stub code in the Solution class.
+
+The first line contains an integer,n , denoting the number of players.
+Each of the n subsequent lines contains a player's name and score, respectively.
+ */
 package src;
 
 import java.util.Arrays;

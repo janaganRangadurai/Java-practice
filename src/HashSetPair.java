@@ -1,3 +1,8 @@
+/*
+ * You are given n pairs of strings. Two pairs (a,b)  and (c,d) are identical if a=d and c=d. That also implies (a,b0 is not same as (b,a). After taking each pair as input, you need to print number of unique pairs you currently have.
+
+Complete the code in the editor to solve this problem.
+ */
 package src;
 
 import java.util.HashSet;

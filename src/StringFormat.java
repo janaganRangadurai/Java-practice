@@ -1,4 +1,4 @@
-/**
+/*
  * The elements of a String are called characters. The number of characters in a String is called the length, and it can be retrieved with the String.length() method.
 
 Given two strings of lowercase English letters,  and , perform the following operations:

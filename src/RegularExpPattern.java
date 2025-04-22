@@ -1,3 +1,6 @@
+/*
+ * In this problem, you are given a pattern. You have to check whether the syntax of the given pattern is valid.
+ */
 package src;
 
 import java.util.Scanner;
